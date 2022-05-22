@@ -1,2 +1,1 @@
-# blog-resource
-blog图床
+### blog图床
